@@ -1,0 +1,15 @@
+{
+  "name": "jasmine-v3-custom-matchers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "2.99.0",
+    "jasmine-core": "2.99.0"
+  }
+}
